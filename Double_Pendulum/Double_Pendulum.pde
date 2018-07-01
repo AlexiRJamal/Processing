@@ -1,7 +1,7 @@
 float r1=100;
 float r2=100;
-float m1=10;
-float m2=10;
+float m1=20;
+float m2=20;
 float a1=0;
 float a2=0;
 
